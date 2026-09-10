@@ -1,4 +1,4 @@
-## Exercise Code for Getting Started With Declarative Navigation
+## Exercise Code for Simple implementation of the DI container
 
 
 
